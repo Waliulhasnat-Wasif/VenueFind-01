@@ -14,7 +14,7 @@
     <main>
         <div class="options">
             <a href="register_customer.php" class="btn">Register as Customer</a>
-            <a href="register_venue_owner.php" class="btn">Register as Venue Owner</a>
+            <a href="register_venue_owner.php" class="btn">Register as Venue owner</a>
             <a href="register_event_organizer.php" class="btn">Register as Event Organizer</a>
         </div>
     </main>
